@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 24.8.4.2 (Windows)"/>
-	<meta name="created" content="2025-01-23T10:34:06.297000000"/>
-	<meta name="changed" content="2025-01-27T12:18:04.765000000"/>
-	
-</head>
+
 <body lang="es-MX" link="#000080" vlink="#800000" dir="ltr"><p align="center" style="line-height: 100%; margin-bottom: 0cm">
 <font size="3" style="font-size: 12pt"><b>Verificador de precios</b></font></p>
 <p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
