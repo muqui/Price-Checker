@@ -309,5 +309,266 @@ la app</b></font></font></p>
 <p lang="es-ES" style="font-weight: normal; line-height: 100%; margin-bottom: 0cm">
 <font face="Calibri"><font size="3" style="font-size: 12pt">presionar
 a para inicar la app en android</font></font></p>
+<p lang="es-ES" style="font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><font face="Calibri"><font size="3" style="font-size: 12pt"><b>Pantallas</b></font></font></p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><font face="Calibri"><font size="3" style="font-size: 12pt"><b>Lee
+el codigo de barras con la camara del celular.</b></font></font></p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><img src="img/3.jpg" name="Imagen1" align="left" width="273" height="433" border="0"/>
+<br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><font face="Calibri"><font size="3" style="font-size: 12pt"><b>Muestra
+la información del producto</b></font></font></p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><img src="img/1.jpg" name="Imagen3" align="left" width="334" height="448" border="0"/>
+<br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><font face="Calibri"><font size="3" style="font-size: 12pt"><b>cambia
+la url de la conexión </b></font></font>
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><img src="img/2.jpg" name="Imagen2" align="left" width="302" height="481" border="0"/>
+<br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
 </body>
 </html>
