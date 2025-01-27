@@ -542,33 +542,8 @@ la url de la conexión </b></font></font>
 <p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
 
 </p>
-<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><img src="img/2.jpg" name="Imagen2" align="left" width="302" height="481" border="0"/>
+<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><img src="/img/3.jpeg" name="Imagen2" align="left" width="302" height="481" border="0"/>
 <br/>
 
-</p>
-<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
-<p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><br/>
-
-</p>
 </body>
 </html>
