@@ -316,12 +316,12 @@ a para inicar la app en android</font></font></p>
 <p lang="es-ES" style="line-height: 100%; margin-bottom: 0cm"><font face="Calibri"><font size="3" style="font-size: 12pt"><b>Pantallas</b></font></font></p>
 <p lang="es-ES" style="line-height: 100%;"><b>Lee el código de barras con la cámara del celular.</b></p>
 
-<img src="/img/3.jpg" name="Imagen1" align="left" width="302" height="481" border="0" />
+<img src="/img/1.jpeg" name="Imagen1" align="left" width="302" height="481" border="0" />
 <br clear="all" />
 
 <p lang="es-ES" style="line-height: 100%;"><b>Muestra la información del producto.</b></p>
 
-<img src="/img/1.jpg" name="Imagen3" align="left" width="302" height="481" border="0" />
+<img src="/img/2.jpeg" name="Imagen3" align="left" width="302" height="481" border="0" />
 <br clear="all" />
 
 <p lang="es-ES" style="line-height: 100%;"><b>Cambia la URL.</b></p>
