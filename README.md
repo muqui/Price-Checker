@@ -6,16 +6,7 @@
 	<meta name="generator" content="LibreOffice 24.8.4.2 (Windows)"/>
 	<meta name="created" content="2025-01-23T10:34:06.297000000"/>
 	<meta name="changed" content="2025-01-27T12:18:04.765000000"/>
-	<style type="text/css">
-		@page { size: 21.59cm 27.94cm; margin: 2cm }
-		p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
-		pre { background: transparent }
-		pre.western { font-family: "Liberation Mono", monospace; font-size: 10pt }
-		pre.cjk { font-family: "NSimSun", monospace; font-size: 10pt }
-		pre.ctl { font-family: "Liberation Mono", monospace; font-size: 10pt }
-		a:link { color: #000080; text-decoration: underline }
-		a:visited { color: #800000; text-decoration: underline }
-	</style>
+	
 </head>
 <body lang="es-MX" link="#000080" vlink="#800000" dir="ltr"><p align="center" style="line-height: 100%; margin-bottom: 0cm">
 <font size="3" style="font-size: 12pt"><b>Verificador de precios</b></font></p>
